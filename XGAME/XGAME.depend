@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1593523423 source:c:\users\ebasa\desktop\lessons\programlama ii\oyundeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593552735 source:c:\users\ebasa\desktop\lessons\programlama ii\c dili örnekler\oyundeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593622930 source:c:\users\ebasa\desktop\lessons\programlama ii\c dili örnekler\xxx oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594314646 source:c:\users\ebasa\desktop\programlama\c dili örnekler\xxx oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624192764 source:c:\users\ebasa\desktop\okul\programlama\Örnekler\c Örnekleri\xxx oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1636022278 source:c:\users\ebasa\desktop\okul\programlama\Örnekler\c Örnekleri\xgame\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
